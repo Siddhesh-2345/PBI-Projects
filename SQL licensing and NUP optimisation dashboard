@@ -1,0 +1,27 @@
+🧩 SQL Licensing & NUP Optimization Dashboard (Power BI)
+This Power BI dashboard provides a comprehensive view of SQL Server licensing and user optimization across all organizational servers. It helps administrators monitor license allocation, identify shortages, and estimate cost impacts for compliance and optimization.
+🔍 Key Insights
+Total SQL Users: 1K
+Server Cores: 138
+Core Licenses Allocated: 32
+User CAL Licenses Allocated: 79
+SQL Versions: Microsoft SQL Server 2008 & 2012
+
+📊 Server-wise SQL User Count
+The dashboard visualizes user distribution across servers, highlighting high-usage servers such as:
+NX-SP3D6 – 327 users
+IN-SPF-PRODDB – 185 users
+NX-SP3D8 – 118 users
+IN-SPF-DEVDB – 113 users
+This helps pinpoint servers with the highest load and potential licensing risks.
+
+💰 Licensing Impact
+Server CAL License Shortage: 1
+Core License Shortage: 6
+Cost Impact (Core License Purchase): ₹990K
+Cost Impact (User CAL/Server License Purchase): ₹3M
+
+🧠 Purpose
+The dashboard enables data-driven decision-making for SQL license management, ensuring compliance and cost efficiency. It supports NUP (Named User Plus) optimization by correlating user counts, server cores, and license allocations.
+
+✨ This summary positions your project as a professional Power BI solution for IT asset management and cost optimization.
